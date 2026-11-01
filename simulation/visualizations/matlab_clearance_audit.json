@@ -1,0 +1,34 @@
+{
+  "source": "matlab_simulation.mat",
+  "model": "constant UAV acceleration and linear dynamic-obstacle motion per recorded step",
+  "duration_s": 17.999999999999986,
+  "samples": 181,
+  "minimum_clearance": {
+    "static": {
+      "value_m": 3.1159458731565177,
+      "time_s": 6.9213493681963,
+      "uav": 2,
+      "other_index": 4
+    },
+    "nofly": {
+      "value_m": 6.560219778561036,
+      "time_s": 0.0,
+      "uav": 2,
+      "other_index": 3
+    },
+    "dynamic": {
+      "value_m": 2.436108721469463,
+      "time_s": 11.682567954435472,
+      "uav": 1,
+      "other_index": 2
+    },
+    "pair": {
+      "value_m": 7.614257641164485,
+      "time_s": 9.199999999999983,
+      "uav": 5,
+      "other_index": 8
+    }
+  },
+  "pair_threshold_m": 6.0,
+  "passed": true
+}

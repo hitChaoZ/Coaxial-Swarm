@@ -1,0 +1,24 @@
+{
+  "source": "matlab_simulation.mat",
+  "controller": "MATLAB swarm_mpc.m",
+  "simulation_time_s": 17.999999999999986,
+  "arrived_latched": 9,
+  "arrive_time_s": 15.5,
+  "sampled_minimum_separation_m": 7.614257641164485,
+  "sampled_minimum_static_clearance_m": 3.1179166945789216,
+  "sampled_minimum_nofly_clearance_m": 6.560219778561036,
+  "sampled_minimum_dynamic_clearance_m": 2.4372409549587095,
+  "sampled_static_collisions": 0,
+  "sampled_nofly_collisions": 0,
+  "sampled_dynamic_collisions": 0,
+  "sampled_pair_violations": 0,
+  "snapshots": [
+    "swarm_t000.0s.png",
+    "swarm_t003.0s.png",
+    "swarm_t006.0s.png",
+    "swarm_t009.0s.png",
+    "swarm_t012.0s.png",
+    "swarm_t015.0s.png",
+    "swarm_t018.0s.png"
+  ]
+}
